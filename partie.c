@@ -160,4 +160,4 @@ Partie charge_plan(char *fichier)
     
     return p;
     }
-
+hector
